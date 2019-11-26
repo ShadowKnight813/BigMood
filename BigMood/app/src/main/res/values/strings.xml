@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">BigMood</string>
+
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_user_moods">My Moods</string>
+    <string name="title_following">Following</string>
+    <string name="title_requests">Requests</string>
+    <string name="title_profile">Profile</string>
+
+    <string name="title_dialog_view_mood">View Mood</string>
+    <string name="title_dialog_add_mood">Add Mood</string>
+    <string name="title_dialog_edit_mood">Edit Mood</string>
+    <string name="title_activity_sign_up">Create Account</string>
+
+    <string name="menu_option_save">SAVE</string>
+    <string name="menu_option_edit">EDIT</string>
+    <string name="menu_option_delete">DELETE</string>
+
+    <string name="emotional_state_happiness">Happy</string>
+    <string name="emotional_state_sadness">Sad</string>
+    <string name="emotional_state_fear">Angry</string>
+    <string name="emotional_state_disgust">Disgusted</string>
+    <string name="emotional_state_anger">Afraid</string>
+    <string name="emotional_state_surprise">Surprised</string>
+
+    <string name="label_emotional_state">Emotional State</string>
+    <string name="label_date">Date</string>
+    <string name="label_time">Time</string>
+    <string name="label_social_situation">Social Situation</string>
+    <string name="label_reason">Reason</string>
+    <string name="label_image">Image</string>
+    <string name="label_location">Location</string>
+
+    <string name="label_log_in">Log In</string>
+    <string name="label_sign_up">Sign Up</string>
+
+    <string name="label_first_name">First Name</string>
+    <string name="label_last_name">Last Name</string>
+    <string name="label_username">Username</string>
+    <string name="label_password">Password</string>
+    <string name="label_confirm_password">Confirm Password</string>
+
+    <string name="label_request_to_follow">Request to Follow</string>
+    <string name="label_request">Request</string>
+
+    <string name="label_request_accept">ACCEPT</string>
+    <string name="label_request_reject">REJECT</string>
+
+    <string name="message_request">wants to follow you!</string>
+
+    <string name="label_add_location">Tap to Add Location</string>
+
+    <string name="toast_error_db">Failed to complete operation. Please try again.</string>
+    <string name="toast_error_registration">Failed to register. Please try again.</string>
+    <string name="toast_error_add_mood">Failed to add mood. Please try again.</string>
+    <string name="toast_error_delete_mood">Failed to delete mood. Please try again.</string>
+    <string name="toast_error_save_mood">Failed to save mood. Please try again.</string>
+    <string name="toast_error_user_exists">Sorry, a user already exists with that username.</string>
+    <string name="toast_error_incorrect_user_pw">Username/password incorrect. Please try again.</string>
+    <string name="toast_error_login">Failed to log in. Please try again.</string>
+    <string name="toast_error_user_dne">Sorry, that user does not exist.</string>
+
+    <string name="toast_success_registration">Registration successful.</string>
+    <string name="toast_success_request_accept">Request successfully accepted.</string>
+    <string name="toast_success_request_reject">Request successfully rejected.</string>
+
+    <string name="placeholder_state">State</string>
+    <string name="placeholder_date">yyyy-MM-dd</string>
+    <string name="placeholder_time">HH:mm</string>
+    <string name="placeholder_situation">No situation provided</string>
+    <string name="placeholder_reason">No reason provided</string>
+
+    <string name="description_placeholder_emote">Emotional State</string>
+    <string name="description_placeholder_photo">Photograph</string>
+    <string name="description_placeholder_location">Location</string>
+
+    <string name="text_not_registered">Not Registered?</string>
+
+    <string name="error_no_value">Please enter a value</string>
+    <string name="error_spaces">Cannot contain spaces</string>
+    <string name="error_no_pw_match">Passwords do not match</string>
+    <string name="error_reason_too_long">Reason too long</string>
+    <string name="error_reason_word_count">Reason cannot be longer than 3 words</string>
+    <string name="error_empty_username">Username cannot be empty</string>
+    <string name="error_empty_password">Password cannot be empty</string>
+    <string name="toast_success_request_sent">Request successfully sent.</string>
+    <string name="maps_key">AIzaSyC2DClq_TGEeVHpfSvDLt4UWRE8LSDOvWk</string>
+
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "880652287179",
+    "firebase_url": "https://cmput301-bigmood.firebaseio.com",
+    "project_id": "cmput301-bigmood",
+    "storage_bucket": "cmput301-bigmood.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880652287179:android:b54d715163b8eaac99ef4e",
+        "android_client_info": {
+          "package_name": "edu.ualberta.cmput301f19t17.bigmood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880652287179-nggb5vf547g5pl7qrhr2egg6a4dptc84.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.ualberta.cmput301f19t17.bigmood",
+            "certificate_hash": "4df458b7bbb63e9685cfc42b4b14424589b7cb82"
+          }
+        },
+        {
+          "client_id": "880652287179-cee6hehe3dopub5ha4lo756f8l34hsdh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD23RTmpkcA8c28w_Jw0OHrLX2Ud_ZKG7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880652287179-cee6hehe3dopub5ha4lo756f8l34hsdh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
